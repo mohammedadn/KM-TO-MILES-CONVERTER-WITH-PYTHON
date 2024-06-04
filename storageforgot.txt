@@ -1,0 +1,25 @@
+THIS IS CODE FOR SOMETHING I FORGOT WHAT IT WAS !!!!!!
+
+"""class GroceryItem:
+    def __init__(self, name, price):
+        self.name = name
+        self.price = price
+class Shopper:
+    def __init__(self, name):
+        self.name = name
+        self.grocery_items = []
+
+first_shopper = shopper("moringa")
+second_shopper = shopper("kenya")
+
+item1 =GroceryItem("milk", 60)
+item2 = GroceryItem("bread", 20)
+
+first_shopper.grocery_items.append(item1)
+first_shopper.grocery_items.append(item2)
+
+for item in first_shopper.grocery_items:"""
+
+
+        
+
